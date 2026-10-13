@@ -1,0 +1,6 @@
+{
+  "name": "CreatorBridge",
+  "description": "Full-stack marketplace connecting AI content creators with advertising agencies and brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
